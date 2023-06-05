@@ -12,8 +12,7 @@
 
 * Github: <https://github.com/kyrosle>
 * Email: <le@90e.com>
-* Discord: <kyros#9776>
+* Discord: `kyros#9776`
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyrosle&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrosle&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
